@@ -1,0 +1,23 @@
+name: GENX
+favicon: null
+layout_spectrum: 0.21069906908087432
+typography_spectrum: 0.8296809373423457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.031347817508503795
+  lightness: 0.16878819675184786
+  saturation: 0.5217611182015389
+  rhythmicContrast: 0.813452631700784
+purpose: []
